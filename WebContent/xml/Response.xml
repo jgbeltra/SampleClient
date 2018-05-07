@@ -1,0 +1,7 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:q0="http://consumer.service.com.co/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <soapenv:Body>
+    <q0:greetingWithName>
+      <arg0>Johan</arg0>
+    </q0:greetingWithName>
+  </soapenv:Body>
+</soapenv:Envelope>
